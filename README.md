@@ -13,3 +13,7 @@ Lo slave riceve in ingresso i valori dal master e reagisce di conseguenza portan
 ## Prossima implementazione
 
 ![image developed using Fritzing](img/schema-next.jpg)
+
+### Autori
+* Giovanni Bono
+* Santo Bono
