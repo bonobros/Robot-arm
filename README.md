@@ -2,7 +2,7 @@
 
 ### Master
 
-Il master scrive sullo slave: corrisponde all'arduino che legge i valori dei joystick e dei sensori.
+Il master scrive sullo slave: corrisponde all'Arduino che legge i valori dei joystick e dei sensori.
 
 ### Slave
 
